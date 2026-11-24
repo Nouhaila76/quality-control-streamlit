@@ -1,0 +1,6 @@
+*.pt
+*.pth
+*.ckpt
+*.zip
+__pycache__/
+.streamlit/secrets.toml
