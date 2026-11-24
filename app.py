@@ -372,6 +372,7 @@ uploaded_file = st.file_uploader(
         "png",
         "jpg",
         "jpeg",
+        "jfif",
         "bmp",
         "webp",
     ],
